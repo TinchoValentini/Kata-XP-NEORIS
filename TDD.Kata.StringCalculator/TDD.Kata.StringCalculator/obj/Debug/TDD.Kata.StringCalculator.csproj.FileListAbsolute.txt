@@ -1,0 +1,5 @@
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator\bin\Debug\TDD.Kata.StringCalculator.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator\bin\Debug\TDD.Kata.StringCalculator.pdb
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator\obj\Debug\TDD.Kata.StringCalculator.csprojResolveAssemblyReference.cache
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator\obj\Debug\TDD.Kata.StringCalculator.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator\obj\Debug\TDD.Kata.StringCalculator.pdb

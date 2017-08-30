@@ -1,0 +1,17 @@
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\obj\Debug\TDD.Kata.StringCalculator.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.abstractions.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.runner.utility.net35.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.runner.reporters.net452.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\TDD.Kata.StringCalculator.Tests.Unit.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\TDD.Kata.StringCalculator.Tests.Unit.pdb
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\TDD.Kata.StringCalculator.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.assert.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.core.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.execution.desktop.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\TDD.Kata.StringCalculator.pdb
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.assert.xml
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.core.xml
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\bin\Debug\xunit.execution.desktop.xml
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\obj\Debug\TDD.Kata.StringCalculator.Tests.Unit.dll
+C:\GitHub\Kata\Kata-XP-NEORIS\TDD.Kata.StringCalculator\TDD.Kata.StringCalculator.Tests.Unit\obj\Debug\TDD.Kata.StringCalculator.Tests.Unit.pdb

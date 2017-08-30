@@ -4,11 +4,11 @@ namespace TDD.Kata.StringCalculator.Tests.Unit
 {
     public class UnitTestExample
     {
-        //private Target Target;
+        private StringCalculator Target;
 
         public UnitTestExample()
         {
-            //this.Target = new StringCalculator();
+            this.Target = new StringCalculator();
         }
 
         [Fact]
@@ -19,9 +19,11 @@ namespace TDD.Kata.StringCalculator.Tests.Unit
 
             //Act
             //Your principal action to test.
+            var result = this.Target.add(string.Empty);
 
             //Assert
             //Your expected value.
+            Assert.Equal<int>(result, 0);
         }
     }
 }
